@@ -1,4 +1,4 @@
-﻿#include "Lab6Example.h"
+﻿/*#include "Lab6Example.h"
 #include <iostream>
 namespace SpaceExample1 {
     ///Задача. Створити дві ієрархії класів без віртуального та з віртуальним спадкуванням, 
@@ -143,4 +143,4 @@ namespace SpaceExample1 {
         return 0;
     }
 
-}
+}*/
